@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/final-project-mentors/static/css/main.04dfd2cf.chunk.css",
+    "main.js": "/final-project-mentors/static/js/main.67670499.chunk.js",
+    "main.js.map": "/final-project-mentors/static/js/main.67670499.chunk.js.map",
+    "runtime-main.js": "/final-project-mentors/static/js/runtime-main.32443e2a.js",
+    "runtime-main.js.map": "/final-project-mentors/static/js/runtime-main.32443e2a.js.map",
+    "static/js/2.be774170.chunk.js": "/final-project-mentors/static/js/2.be774170.chunk.js",
+    "static/js/2.be774170.chunk.js.map": "/final-project-mentors/static/js/2.be774170.chunk.js.map",
+    "static/js/3.8d05d652.chunk.js": "/final-project-mentors/static/js/3.8d05d652.chunk.js",
+    "static/js/3.8d05d652.chunk.js.map": "/final-project-mentors/static/js/3.8d05d652.chunk.js.map",
+    "index.html": "/final-project-mentors/index.html",
+    "static/css/main.04dfd2cf.chunk.css.map": "/final-project-mentors/static/css/main.04dfd2cf.chunk.css.map",
+    "static/js/2.be774170.chunk.js.LICENSE.txt": "/final-project-mentors/static/js/2.be774170.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/final-project-mentors/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32443e2a.js",
+    "static/js/2.be774170.chunk.js",
+    "static/css/main.04dfd2cf.chunk.css",
+    "static/js/main.67670499.chunk.js"
+  ]
+}
