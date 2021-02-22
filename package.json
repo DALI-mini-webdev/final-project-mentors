@@ -21,7 +21,7 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://ashleysong0418.github.io/dev-course-react-example",
+  "homepage": "http://dali-mini-webdev.github.io/final-project-mentors",
   "eslintConfig": {
     "extends": [
       "react-app",
